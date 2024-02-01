@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437581465286",
+    "project_id": "listadelacompra-a3bcf",
+    "storage_bucket": "listadelacompra-a3bcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437581465286:android:8aba225e18a743d16ef9c7",
+        "android_client_info": {
+          "package_name": "com.nataliasep.listacomprafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_g4KcZBYMraiy---9-4mWUh4HBXamAlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
